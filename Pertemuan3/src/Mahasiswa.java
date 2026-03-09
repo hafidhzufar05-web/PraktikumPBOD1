@@ -1,3 +1,9 @@
+/* Nama File : MMahasiswa.java
+ * Deskripsi : berisi atribut dan method dalam class Mahasiswa
+ * Pembuat   : Muhammad Hafidh Zufar Dewantara/24060124140164 
+ * Tanggal   : 9 Maret 2026
+ */
+
 import java.util.ArrayList;
 public class Mahasiswa {
 
