@@ -1,4 +1,4 @@
-/* Nama File : MMahasiswa.java
+/* Nama File : Mahasiswa.java
  * Deskripsi : berisi atribut dan method dalam class Mahasiswa
  * Pembuat   : Muhammad Hafidh Zufar Dewantara/24060124140164 
  * Tanggal   : 9 Maret 2026
