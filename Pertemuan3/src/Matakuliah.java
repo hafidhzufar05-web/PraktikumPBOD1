@@ -1,4 +1,8 @@
-
+/* Nama File : Matakuliah.java
+ * Deskripsi : berisi atribut dan method dalam class Matakuliah
+ * Pembuat   : Muhammad Hafidh Zufar Dewantara/24060124140164 
+ * Tanggal   : 9 Maret 2026
+ */
 
 public class Matakuliah {
     /*****ATRIBUT*****/
