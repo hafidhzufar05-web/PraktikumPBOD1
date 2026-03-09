@@ -1,3 +1,9 @@
+/* Nama File : MMahasiswa.java
+ * Deskripsi : berisi atribut dan method dalam class Mahasiswa
+ * Pembuat   : Muhammad Hafidh Zufar Dewantara/24060124140164 
+ * Tanggal   : 9 Maret 2026
+ */
+
 public class MMahasiswa {
     public static void main(String[] args) {
         Matakuliah PBO = new Matakuliah("PBO", "Pemrograman Berorientasi Objek", 3);
