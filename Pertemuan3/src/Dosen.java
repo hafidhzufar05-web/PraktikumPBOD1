@@ -1,3 +1,9 @@
+/* Nama File : Dosen.java
+ * Deskripsi : berisi atribut dan method dalam class Dosen
+ * Pembuat   : Muhammad Hafidh Zufar Dewantara/24060124140164 
+ * Tanggal   : 9 Maret 2026
+ */
+
 public class Dosen {
     private String nip;
     private String nama;
