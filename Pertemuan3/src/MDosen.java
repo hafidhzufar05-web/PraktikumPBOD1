@@ -1,3 +1,9 @@
+/* Nama File : MDosen.java
+ * Deskripsi : berisi atribut dan method dalam class Dosen
+ * Pembuat   : Muhammad Hafidh Zufar Dewantara/24060124140164 
+ * Tanggal   : 9 Maret 2026
+ */
+
 public class MDosen {
     public static void main(String[] args){
         Dosen D1 = new Dosen();
