@@ -1,3 +1,9 @@
+/* Nama File : Kendaraan.java
+ * Deskripsi : berisi atribut dan method dalam class Kendaraan
+ * Pembuat   : Muhammad Hafidh Zufar Dewantara/24060124140164 
+ * Tanggal   : 9 Maret 2026
+ */
+
 public class Kendaraan {
     private String noPlat;
     private String jenis; // motor / mobil
