@@ -1,0 +1,7 @@
+com\mycompany\pertemuan10\Person.class
+com\mycompany\pertemuan10\ReadSerializedPerson.class
+com\mycompany\pertemuan10\MainDAO.class
+com\mycompany\pertemuan10\DAOManager.class
+com\mycompany\pertemuan10\PersonDAO.class
+com\mycompany\pertemuan10\MySQLPersonDAO.class
+com\mycompany\pertemuan10\SerializePerson.class
